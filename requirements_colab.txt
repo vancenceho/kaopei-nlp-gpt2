@@ -1,0 +1,20 @@
+# Colab-compatible requirements
+# Only includes essential packages that aren't pre-installed or need specific versions
+
+# Core ML libraries
+torch>=2.0.0
+transformers>=4.30.0
+einops>=0.6.0
+
+# Data handling (Colab usually has these, but we specify compatible versions)
+# numpy, pandas, matplotlib are usually pre-installed in Colab
+
+# Utilities
+tqdm>=4.60.0
+filelock>=3.0.0
+
+# Note: Most other packages in requirements.txt are either:
+# 1. Pre-installed in Colab (numpy, pandas, matplotlib, etc.)
+# 2. Not needed for this project
+# 3. Will cause conflicts if we try to install them
+
