@@ -47,6 +47,6 @@ All contents of this project are credited to:
 Copyright &copy; Prof. Zhang Wenxuan &nbsp;|&nbsp; ISTD &nbsp;|&nbsp; SUTD  
 Copyright &copy; Vancence Ho &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; CSD &nbsp;|&nbsp; SUTD  
 Copyright &copy; Lee Ruiyu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; DAI &nbsp;|&nbsp; SUTD  
-Copyright &copy; Justin Cho &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; DAI &nbsp;|&nbsp; SUTD
+Copyright &copy; Justin Cho &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; CSD &nbsp;|&nbsp; SUTD
 
 ---
