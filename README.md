@@ -17,7 +17,6 @@
 >
 > # On google-colab
 > pip install -r requirements_colab.txt
-> use `pip` to install `requirements_colab.txt`
 > ```
 >
 > We recommended `python@3.11` for this project.  
@@ -59,7 +58,7 @@ Additionally, if you would like to have a more detailed view on our findings, fe
 > - You can download this entire repository and save it to your Google Drive and mount it using the following command if you wish to work on this project on **Google Colab**
 >
 > ```zsh
->  from google.colab import drive
+> from google.colab import drive
 > drive.mount('/content/drive')
 > ```
 >
@@ -70,26 +69,26 @@ Additionally, if you would like to have a more detailed view on our findings, fe
 
 ```zsh
 best_model/
-├── model.pt                            # HuggingFace model
+├── model.pt                                  # HuggingFace model
 └── .gitkeep
-config.py                               # configurations for project
+config.py                                     # configurations for project
 docs/
-├── default-final-project.pdf           # project documentation
-├── 50.040-nlp-project-proposal.pdf     # project proposal
-├── 50.040-nlp-project-report.pdf       # project report
+├── default-final-project.pdf                 # project documentation
+├── 50.040-nlp-project-proposal.pdf           # project proposal
+├── 50.040-nlp-final-project-report.pdf       # project report
 └── *.pdf
-utils.py                                # helper functions
-optimizer_test.npy                      # GPT-2 official weights
+utils.py                                      # helper functions
+optimizer_test.npy                            # GPT-2 official weights
 outputs/
-└── *.png                               # visualisations from code
-default_final_project.ipynb             # project notebook
-pretrain.txt                            # data for task1
-XNLI-1.0/                               # downloaded dataset
-XNLI-MT-1.0/                            # downloaded dataset
-requirements.txt                        # local requirements
-requirements-colab.txt                  # google-colab requirements
+└── *.png                                     # visualisations from code
+default_final_project.ipynb                   # project notebook
+pretrain.txt                                  # data for task1
+XNLI-1.0/                                     # downloaded dataset
+XNLI-MT-1.0/                                  # downloaded dataset
+requirements.txt                              # local requirements
+requirements-colab.txt                        # google-colab requirements
 .gitignore
-README.md                               # Check this first!
+README.md                                     # Check this first!
 LICENSE
 
 ```
@@ -100,7 +99,7 @@ This dataset is from an awesome group of researchers from Facebook AI and New Yo
 
 You can check out more about the dataset [here](https://github.com/facebookresearch/XNLI)!
 
-This project is an undertaking of the [50.040 - Natural Language Processing](https://isakzhang.github.io/courses/50040-nlp.html#grading) module during Fall 2025 under the _**Information Systems Technology & Design**_ faculty at the _**Singapore Unverisyt of Technology & Design**_
+This project is an undertaking of the [50.040 - Natural Language Processing](https://isakzhang.github.io/courses/50040-nlp.html#grading) module during Fall 2025 under the **_Information Systems Technology & Design_ (ISTD)** faculty at the **_Singapore Unversity of Technology & Design_ (SUTD)**
 
 All contents of this project are credited to:  
 Copyright &copy; Prof. Zhang Wenxuan &nbsp;|&nbsp; ISTD &nbsp;|&nbsp; SUTD  
