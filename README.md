@@ -17,7 +17,6 @@
 >
 > # On google-colab
 > pip install -r requirements_colab.txt
-> use `pip` to install `requirements_colab.txt`
 > ```
 >
 > We recommended `python@3.11` for this project.  
@@ -59,7 +58,7 @@ Additionally, if you would like to have a more detailed view on our findings, fe
 > - You can download this entire repository and save it to your Google Drive and mount it using the following command if you wish to work on this project on **Google Colab**
 >
 > ```zsh
->  from google.colab import drive
+> from google.colab import drive
 > drive.mount('/content/drive')
 > ```
 >
@@ -100,7 +99,7 @@ This dataset is from an awesome group of researchers from Facebook AI and New Yo
 
 You can check out more about the dataset [here](https://github.com/facebookresearch/XNLI)!
 
-This project is an undertaking of the [50.040 - Natural Language Processing](https://isakzhang.github.io/courses/50040-nlp.html#grading) module during Fall 2025 under the _**Information Systems Technology & Design**_ faculty at the _**Singapore Unverisyt of Technology & Design**_
+This project is an undertaking of the [50.040 - Natural Language Processing](https://isakzhang.github.io/courses/50040-nlp.html#grading) module during Fall 2025 under the **_Information Systems Technology & Design_ (ISTD)** faculty at the **_Singapore Unversity of Technology & Design_ (SUTD)**
 
 All contents of this project are credited to:  
 Copyright &copy; Prof. Zhang Wenxuan &nbsp;|&nbsp; ISTD &nbsp;|&nbsp; SUTD  
